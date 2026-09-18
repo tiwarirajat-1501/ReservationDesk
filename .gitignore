@@ -1,0 +1,12 @@
+# Compiled class files
+out/
+*.class
+
+# Generated database and tickets during runtime
+*.db
+tickets/TICKET_*.txt
+tickets/AUDIT_REPORT_*.txt
+
+# OS metadata
+Thumbs.db
+.DS_Store
