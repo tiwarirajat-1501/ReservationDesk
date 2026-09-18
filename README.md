@@ -100,7 +100,7 @@ ReservationDesk/
 │   └── sqlite-jdbc-3.42.0.0.jar       # Bundled SQLite JDBC driver
 ├── tickets/                           # Output folder for generated e-tickets and audit text files
 ├── run.bat                            # All-in-one launcher (auto-compiles & launches GUI or CLI)
-├── PROJECT_REPORT.md                  # Comprehensive academic project report
+├── design diagrams.md                 # System architecture & UML design diagrams
 └── README.md                          # Main project guide
 ```
 
